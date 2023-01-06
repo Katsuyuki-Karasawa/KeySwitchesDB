@@ -1,0 +1,28 @@
+[
+    {
+        "name": "CherryMX Red",
+        "sense": {
+            "feel": "Linear",
+            "sound": { "Silent": true }
+        },
+        "pins": {"5pin": true},
+        "Actuation Force": "45g",
+        "Bottomout Force": "",
+        "Pre Travel": "2mm",
+        "Total Tranvel": "4mm",
+        "Factory Lube": false
+    },
+    {
+        "name": "CherryMX Red",
+        "sense": {
+            "feel": "Linear",
+            "sound": { "Silent": true }
+        },
+        "pins": {"5pin": true},
+        "Actuation Force": "45g",
+        "Bottomout Force": "",
+        "Pre Travel": "2mm",
+        "Total Tranvel": "4mm",
+        "Factory Lube": false
+    }
+]
